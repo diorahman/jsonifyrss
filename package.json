@@ -1,0 +1,16 @@
+{
+  "name": "rss",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "fast-feed": "0.0.12",
+    "request": "~2.27.0",
+    "express": "~3.4.4"
+  }
+}

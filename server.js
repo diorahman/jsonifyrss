@@ -33,5 +33,5 @@ server.post("/like", function(req, res){
   return res.send({ error : 'news, nasional, internasional, hot'})
 })
 
-server.listen(3000)
+server.listen(3003)
 
